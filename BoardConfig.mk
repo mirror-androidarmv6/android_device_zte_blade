@@ -54,8 +54,6 @@ BOARD_USE_LEGACY_TOUCHSCREEN := true
 
 # Bluetooth
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/zte/blade/bluetooth
-BOARD_HAVE_BLUETOOTH_BCM := true
-BOARD_BLUEDROID_VENDOR_CONF := device/zte/blade/bluetooth/libbt_vndcfg.txt
 
 # GPS
 BOARD_USES_QCOM_GPS := true
